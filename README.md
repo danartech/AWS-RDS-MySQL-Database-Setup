@@ -17,16 +17,21 @@ This project involves creating and managing a MySQL database instance on Amazon 
    - Reviewed and launched the database instance.
    - Monitored the deployment and checked the status of the database.
 
-## Images to Include
+## Images of Steps Taken
 
 - **Image:** `screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_05_14.png`
-  - **Description:** Choosing the database creation method and engine type.
-  
+![MYSQL](https://github.com/danartech/AWS-RDS-MySQL-Database-Setup/blob/main/screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_05_14.png)
+ - **Description:** Choosing the database creation method and engine type.
+   
 - **Image:** `screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_05_22.png`
+![MYSQL](https://github.com/danartech/AWS-RDS-MySQL-Database-Setup/blob/main/screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_05_22.png)
   - **Description:** Configuring the MySQL database instance.
-  
-- **Image:** `screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_05_35.png`
+
+- **Image:** `screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_05_35.png`    
+![MYSQL](https://github.com/danartech/AWS-RDS-MySQL-Database-Setup/blob/main/screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_05_35.png)
   - **Description:** Selecting the instance class and naming the database.
-  
-- **Image:** `screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_06_25.png`
+ 
+- **Image:** `screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_06_25.png`   
+![MYSQL](https://github.com/danartech/AWS-RDS-MySQL-Database-Setup/blob/main/screenshot-us-west-2.console.aws.amazon.com-2024.05.12-08_06_25.png)
   - **Description:** Monitoring the deployment of the database instance.
+  
